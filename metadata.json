@@ -1,0 +1,6 @@
+{
+  "name": "Aprender Inglés Jugando",
+  "description": "Aplicación web educativa infantil para que niños de 4 a 7 años aprendan vocabulario básico en inglés con juegos, audios, videos y evaluaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
